@@ -25,7 +25,7 @@ printf "${Color_Off}"
 
 sleep 0.5
 
-echo -e "By ${Red} Mr.Wasp \nStarting..,${Color_Off}\n"
+echo -e "By ${Red} SirWasp \nStarting..,${Color_Off}\n"
 
 sleep 0.5
 
