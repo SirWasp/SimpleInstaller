@@ -88,8 +88,7 @@ if [ -e ${1}.txt ]; then
 	#Run the function needed for either process. The file variable is the function name to run.
 	${1}
 else
-	echo -e "${Red}WARNING!: Required file(${1}.txt) not found. Please check for typographical errors on the file, or check if it is in current working directory.${Color_Off}"
-	exit
+	echo -e "${Red}WARNING!: Required file(${1}.txt) not found. Please check for typographical errors on the file, or check if it is in current working directory.${Color_Off}"j
 fi
 
 sleep 1
